@@ -1,1 +1,1 @@
-# portfolio.ppalad.me
+# ppalad.me
